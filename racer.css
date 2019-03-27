@@ -1,0 +1,30 @@
+.racer1 {
+  background-image: url('nyanCat.gif');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.racer2 {
+  background-image: url('nyanCat.gif');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.racerToken {
+  width: 200px;
+  height: 200px;
+}
+
+.raceTrack {
+  margin-top: 100px;
+}
+
+body {
+  background-image: url('spaceBackdrop.png');
+  background-size: contain;
+}
+
+#winBox {
+  color: white;
+  text-align: center;
+}
